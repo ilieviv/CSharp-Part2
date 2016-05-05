@@ -1,0 +1,1 @@
+C:\Users\adminLaptop\Source\Repos\CSharp-Part2\HW1\MaximalSequence\bin\Debug\MaximalSequence.exe.config

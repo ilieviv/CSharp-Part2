@@ -1,0 +1,6 @@
+C:\Users\adminLaptop\Source\Repos\CSharp-Part2\HW1\MaximalIncreasingSequence\bin\Debug\MaximalIncreasingSequence.exe.config
+C:\Users\adminLaptop\Source\Repos\CSharp-Part2\HW1\MaximalIncreasingSequence\bin\Debug\MaximalIncreasingSequence.exe
+C:\Users\adminLaptop\Source\Repos\CSharp-Part2\HW1\MaximalIncreasingSequence\bin\Debug\MaximalIncreasingSequence.pdb
+C:\Users\adminLaptop\Source\Repos\CSharp-Part2\HW1\MaximalIncreasingSequence\obj\Debug\MaximalIncreasingSequence.csprojResolveAssemblyReference.cache
+C:\Users\adminLaptop\Source\Repos\CSharp-Part2\HW1\MaximalIncreasingSequence\obj\Debug\MaximalIncreasingSequence.exe
+C:\Users\adminLaptop\Source\Repos\CSharp-Part2\HW1\MaximalIncreasingSequence\obj\Debug\MaximalIncreasingSequence.pdb
