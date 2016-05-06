@@ -1,1 +1,2 @@
 C:\Users\adminLaptop\Source\Repos\CSharp-Part2\HW1\AllocateArray\bin\Debug\AllocateArray.exe.config
+C:\Users\admin\Source\Repos\CSharp-Part2\HW1\AllocateArray\bin\Debug\AllocateArray.exe.config
