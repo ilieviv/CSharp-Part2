@@ -10,23 +10,36 @@ namespace CompareCharArrays
     {
         static void Main(string[] args)
         {
-            string first = Console.ReadLine();
-            string second = Console.ReadLine();
+            string firstWord = Console.ReadLine();
+            string secondWord = Console.ReadLine();
 
-            int compare = first.CompareTo(second);
+            if (firstWord.Length < secondWord.Length)
+            {
+                firstWord = firstWord.PadRight(secondWord.Length, (char)(0));
+            }
+            else if (firstWord.Length > secondWord.Length)
+            {
+                secondWord = secondWord.PadRight(firstWord.Length, (char)(0));
+            }
 
-            if (compare == -1)
+            char[] arrayA = firstWord.ToCharArray();
+            char[] arrayB = secondWord.ToCharArray();
+
+            for (int i = 0; i < arrayA.Length; i++)
             {
-                Console.WriteLine("<");
+                if (arrayA[i] < arrayB[i])
+                {
+                    Console.WriteLine("<");
+                    return;
+                }
+                else if (arrayA[i] > arrayB[i])
+                {
+                    Console.WriteLine(">");
+                    return;
+                }
             }
-            else if (compare == 1)
-            {
-                Console.WriteLine(">");
-            }
-            else if (compare == 0)
-            {
-                Console.WriteLine("=");
-            }
+
+            Console.WriteLine("=");
         }
     }
 }

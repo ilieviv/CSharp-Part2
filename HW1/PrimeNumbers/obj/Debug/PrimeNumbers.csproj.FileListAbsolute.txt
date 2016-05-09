@@ -4,3 +4,9 @@ C:\Users\adminLaptop\Source\Repos\CSharp-Part2\HW1\PrimeNumbers\bin\Debug\PrimeN
 C:\Users\adminLaptop\Source\Repos\CSharp-Part2\HW1\PrimeNumbers\obj\Debug\PrimeNumbers.csprojResolveAssemblyReference.cache
 C:\Users\adminLaptop\Source\Repos\CSharp-Part2\HW1\PrimeNumbers\obj\Debug\PrimeNumbers.exe
 C:\Users\adminLaptop\Source\Repos\CSharp-Part2\HW1\PrimeNumbers\obj\Debug\PrimeNumbers.pdb
+C:\Users\admin\Source\Repos\CSharp-Part2\HW1\PrimeNumbers\bin\Debug\PrimeNumbers.exe.config
+C:\Users\admin\Source\Repos\CSharp-Part2\HW1\PrimeNumbers\obj\Debug\PrimeNumbers.exe
+C:\Users\admin\Source\Repos\CSharp-Part2\HW1\PrimeNumbers\obj\Debug\PrimeNumbers.pdb
+C:\Users\admin\Source\Repos\CSharp-Part2\HW1\PrimeNumbers\bin\Debug\PrimeNumbers.exe
+C:\Users\admin\Source\Repos\CSharp-Part2\HW1\PrimeNumbers\bin\Debug\PrimeNumbers.pdb
+C:\Users\admin\Source\Repos\CSharp-Part2\HW1\PrimeNumbers\obj\Debug\PrimeNumbers.csprojResolveAssemblyReference.cache
