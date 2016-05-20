@@ -2,7 +2,7 @@
 using System.Collections.Generic;
  
 
-namespace ConsoleApplication1
+namespace exercises
 {
     class Program
     {
