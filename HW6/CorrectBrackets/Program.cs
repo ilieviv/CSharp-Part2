@@ -4,24 +4,38 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ReverseStringWithStack
+namespace CorrectBrackets
 {
     class Program
     {
         static void Main(string[] args)
         {
-            string input = Console.ReadLine();
-            Stack<char> stack = new Stack<char>();
+            var input = Console.ReadLine();
+            int openBracket = 0;
+            int closeBracket = 0;
 
-            foreach (char ch in input)
+            foreach (var element in input)
             {
-                stack.Push(ch);
+                if (element == '(')
+                {
+                    openBracket++;
+                    continue;
+                }
+
+                if (element == ')')
+                {
+                    closeBracket++;
+                    continue;
+                }
             }
 
-            for (int i = 0; i < input.Length; i++)
+            if (openBracket == closeBracket)
             {
-                char next = stack.Pop();
-                Console.Write(next);
+                Console.WriteLine("Correct");
+            }
+            else
+            {
+                Console.WriteLine("Incorrect");
             }
         }
     }
