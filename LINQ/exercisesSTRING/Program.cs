@@ -13,7 +13,7 @@ namespace exercisesSTRING
             StringBuilder builder = new StringBuilder();
             builder.Append("Gosho");
             builder.Insert(0, "Iva");
-            builder.Replace('o', 'r')
+            builder.Replace('o', 'r');
             Console.WriteLine(builder.ToString());
         }
     }

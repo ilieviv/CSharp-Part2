@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Files", "Files\Files.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindWordInText", "FindWordInText\FindWordInText.csproj", "{4CD60427-8F1B-46B5-B935-8E0673F40422}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01CalculaionProblem", "01CalculaionProblem\01CalculaionProblem.csproj", "{5D94A2EE-18AF-4DAA-A53F-D0F1D4997C03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02EvenDifferences", "02EvenDifferences\02EvenDifferences.csproj", "{4F189A44-FD02-417F-8F3F-D2597951AAFC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{4CD60427-8F1B-46B5-B935-8E0673F40422}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CD60427-8F1B-46B5-B935-8E0673F40422}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4CD60427-8F1B-46B5-B935-8E0673F40422}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D94A2EE-18AF-4DAA-A53F-D0F1D4997C03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D94A2EE-18AF-4DAA-A53F-D0F1D4997C03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D94A2EE-18AF-4DAA-A53F-D0F1D4997C03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D94A2EE-18AF-4DAA-A53F-D0F1D4997C03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F189A44-FD02-417F-8F3F-D2597951AAFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F189A44-FD02-417F-8F3F-D2597951AAFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F189A44-FD02-417F-8F3F-D2597951AAFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F189A44-FD02-417F-8F3F-D2597951AAFC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
