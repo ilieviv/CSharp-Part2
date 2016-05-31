@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.IO;
 
 namespace exercises
 {
@@ -8,11 +9,14 @@ namespace exercises
     {
         static void Main(string[] args)
         {
-            var dict = new Dictionary<string, int>();
+            string text = "  111 $ @ Ivan Ivanov %%";
 
-            dict["SomeString"] = 5;
+            char[] trimChars = new char[] { ' ', '1', '$', '@', '#', '%'};
 
-            var result = dict.Where(x => x.Value > 2);
+            string newtext = text.Trim(trimChars);
+
+            Console.WriteLine(newtext);
+             
         }
 
     }
